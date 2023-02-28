@@ -1,5 +1,6 @@
 # kubernetes-apply-secrets-all-namespaces
 
+`update-ssl.sh`
 ```
 #!/bin/bash
 
@@ -17,4 +18,10 @@ do
   fi
 done
 
+```
+
+Run shell script
+
+```
+bash update-ssl.sh
 ```
