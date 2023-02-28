@@ -1,0 +1,1 @@
+# kubernetes-apply-secrets-all-namespaces
